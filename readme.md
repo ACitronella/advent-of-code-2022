@@ -2,7 +2,16 @@
 
 ## Structure of the repository
 
-Each folder contain both inputs and problems of the day.
-Example input is localed in `small_input.txt`, and the actual input of the problem is localted in `input.txt`.
+Each folder contain both inputs and problems of the day.  
+Example input is localed in `small_input.txt`, and the actual input of the problem is localted in `input.txt`.  
+The programming language used in each day is decided by my mood.
 
-[https://adventofcode.com/2022/](https://adventofcode.com/2022/)
+## Language used so far
+
+- Python (day 1, 3)
+- Haskell (day 2)
+- C (day 4)
+
+## Source of problems
+
+[Advent of Code 2022](https://adventofcode.com/2022/)
