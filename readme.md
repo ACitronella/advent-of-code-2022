@@ -8,7 +8,7 @@ The programming language used in each day is decided by my mood.
 
 ## Language used so far
 
-- Python (day 1, 3)
+- Python (day 1, 3, 5)
 - Haskell (day 2)
 - C (day 4)
 
